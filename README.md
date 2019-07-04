@@ -23,4 +23,3 @@ I'm doing the Microverse program, which is has parts of the Odin project, like t
 # Contributors
  
 [Ivan](https://github.com/IvanDerlich)
-~                                            
