@@ -4,7 +4,7 @@
  
 # Rspec
  
-[Here](https://www.theodinproject.com/courses/ruby-programming/lessons/introduction-to-rspec) you can see a description of the te    chnology
+[Here](e) you can see a description of the te    chnology
  
 # More Info
  
