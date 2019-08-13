@@ -1,0 +1,7 @@
+¿How to do this?
+
+
+it 'returns draw when board is full and no winner' do
+    allow(@game.board).to receive(:game_over) { :draw }
+    expect{@game.game_over_mssg}.to output("The game ended in a tie\n").to_stdout
+end
